@@ -613,7 +613,7 @@ Ketik *nyerah* untuk menyerah dan mengakui kekalahan`
             }
             break
             case 'sc': {
-                m.reply('https://wa.me/6285822347348')
+                m.reply('https://wa.me/6285806008040')
             }
             break		 
             case 'chat': {
